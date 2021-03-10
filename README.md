@@ -8,7 +8,7 @@
 
 
 ![Profile views](https://gpvc.arturio.dev/imhilla)  <img src="https://img.shields.io/github/followers/imhilla?label=Follow" style=" float:left, margin-right:10px" />
-
+![Twitter URL](https://img.shields.io/twitter/follow/hillarykiptoo_?label=Follow&style=social)
 
 ---
 
