@@ -1,6 +1,6 @@
 ### 👋🏽  Hillary Kiptoo
 
- 🔭 I’m currently working on ... React, graphql, firebase cool apps
+ 🔭 I’m currently working on ... React, graphql, firebase cool apps.
     
  ⚡ Fun fact: ... Everything is fun, if you are creative enough!
 
