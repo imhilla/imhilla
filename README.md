@@ -29,9 +29,6 @@
 <img src="https://img.shields.io/badge/-RubyonRails-red?style=flat&logo=ror&logoColor=white"> 
 <img src="https://img.shields.io/badge/-Ruby-white?style=flat&logo=ruby&logoColor=red"> 
 
-### Portfolio
-www.hillarykiptoo.me
-
 ---
 
 
